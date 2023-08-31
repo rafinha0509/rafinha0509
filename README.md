@@ -1,3 +1,35 @@
-- 👋 Hi, I’m @rafinha0509 <!---
-rafinha0509/rafinha0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.--->
+h1 {
+    text-align:center;
+    background-color: aqua;
+}
+h3{
+    font-style: oblique;
+    background-color: blue;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: blueviolet;
+}
+.imagem1 {
+    width: 70px;
+}
+.unicornio {
+    background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+}
+.lista {
+        display: inline-block;
+        padding: 10%;
+        margin-right: 20%;
+    }
